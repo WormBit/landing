@@ -87,3 +87,24 @@ body {
     height: 200px;
     width: 525px;
 }
+
+#somerandom {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.squareimg, .subwrapper {
+    width: 150px; 
+}
+
+.subwrapper p {
+    margin: 0;
+}
+
+.subtexts {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+}
