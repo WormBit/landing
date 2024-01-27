@@ -1,3 +1,4 @@
+
 html {
     font-family: 'roboto', Arial, 'Times New Roman', serif;
 }
@@ -109,4 +110,25 @@ body {
     justify-content: center;
     text-align: center;
     gap: 50px;
+    padding-bottom: 90px;
+}
+
+.quotesection {
+    text-align: left;
+    padding: 90px 500px;
+    background-color: #E5E7EB;
+}
+
+#quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+
+#quoteauthor {
+    font-weight: bold;
+    text-align: right;
+    font-size: 20px;
 }
