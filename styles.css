@@ -141,3 +141,47 @@ body {
     text-align: right;
     font-size: 20px;
 }
+
+.ctoasection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    gap: 300px;
+    padding: 50px 100px;
+    color: white;
+    border-radius: 10px;
+    width: 750px;
+    flex-shrink: 0;
+}
+
+.cta button {
+    background-color: transparent;
+    padding: 5px 20px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.ctatext {
+
+}
+
+.cta p {
+    margin: 0;
+    padding: 0;
+}
+
+#ctabold {
+    font-weight: bold;
+    font-size: 20px;
+}
+
