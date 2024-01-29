@@ -88,7 +88,7 @@ body {
 
 .hero img {
     height: 200px;
-    width: 500px;
+    width: 30%;
 }
 
 #somerandom {
@@ -159,7 +159,7 @@ body {
     color: white;
     border-radius: 10px;
     width: 750px;
-    flex-shrink: 0;
+    margin: auto;
 }
 
 .cta button {
@@ -179,6 +179,7 @@ body {
 #ctabold {
     font-weight: bold;
     font-size: 20px;
+
 }
 
 .footer {
